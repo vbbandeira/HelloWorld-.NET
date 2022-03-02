@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello World!");
 Random dice = new Random();
 
 int roll1 = dice.Next(1, 7);
