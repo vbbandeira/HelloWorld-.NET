@@ -1,0 +1,15 @@
+/Users/bandeira/dotnet/HelloWorld-.Net/bin/Debug/net6.0/HelloWorld-.Net
+/Users/bandeira/dotnet/HelloWorld-.Net/bin/Debug/net6.0/HelloWorld-.Net.deps.json
+/Users/bandeira/dotnet/HelloWorld-.Net/bin/Debug/net6.0/HelloWorld-.Net.runtimeconfig.json
+/Users/bandeira/dotnet/HelloWorld-.Net/bin/Debug/net6.0/HelloWorld-.Net.dll
+/Users/bandeira/dotnet/HelloWorld-.Net/bin/Debug/net6.0/HelloWorld-.Net.pdb
+/Users/bandeira/dotnet/HelloWorld-.Net/obj/Debug/net6.0/HelloWorld-.Net.csproj.AssemblyReference.cache
+/Users/bandeira/dotnet/HelloWorld-.Net/obj/Debug/net6.0/HelloWorld-.Net.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bandeira/dotnet/HelloWorld-.Net/obj/Debug/net6.0/HelloWorld-.Net.AssemblyInfoInputs.cache
+/Users/bandeira/dotnet/HelloWorld-.Net/obj/Debug/net6.0/HelloWorld-.Net.AssemblyInfo.cs
+/Users/bandeira/dotnet/HelloWorld-.Net/obj/Debug/net6.0/HelloWorld-.Net.csproj.CoreCompileInputs.cache
+/Users/bandeira/dotnet/HelloWorld-.Net/obj/Debug/net6.0/HelloWorld-.Net.dll
+/Users/bandeira/dotnet/HelloWorld-.Net/obj/Debug/net6.0/refint/HelloWorld-.Net.dll
+/Users/bandeira/dotnet/HelloWorld-.Net/obj/Debug/net6.0/HelloWorld-.Net.pdb
+/Users/bandeira/dotnet/HelloWorld-.Net/obj/Debug/net6.0/HelloWorld-.Net.genruntimeconfig.cache
+/Users/bandeira/dotnet/HelloWorld-.Net/obj/Debug/net6.0/ref/HelloWorld-.Net.dll
